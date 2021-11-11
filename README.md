@@ -8,6 +8,7 @@
 
 ## Como iniciar o servidor?
 - npm start
+- yarn start
 
 
 ## Altamente recomendavel abrir o index.html com o live server do visual studio code.
