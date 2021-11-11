@@ -6,7 +6,7 @@
 - yarn
 
 
-## Como iniciar o servidor?:
+## Como iniciar o servidor?
 - npm start
 
 
