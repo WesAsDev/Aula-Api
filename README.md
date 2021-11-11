@@ -1,3 +1,6 @@
 # Aula-Api
 
-## Instalar as dependencias com: npm install
+## Como instalar as dependencias:
+
+- npm install
+- yarn
